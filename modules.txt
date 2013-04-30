@@ -1,4 +1,5 @@
 soundex
+ApproxSearch
 Transliteration
 Spellchecker
 Hyphenation
